@@ -8,8 +8,8 @@ O objetivo deste projeto é reunir meus principais trabalhos, experiências e fo
 
 ## 🚀 Tecnologias
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Figma
 
